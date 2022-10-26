@@ -1,0 +1,47 @@
+{
+    "OWNER": "OWNER_ID",
+
+    "SETTINGS": {
+        "Prefix": "g!",
+        "Roles": {
+            "AcceptRoles": "ROLE_ID",
+
+            "Pronouns": {
+                "Male": "ROLE_ID",
+                "Female": "ROLE_ID"
+            },
+            "Notification": {
+                "AnnouncementRoles": "ROLE_ID",
+                "UploadRoles": "ROLE_ID",
+                "PollRoles": "ROLE_ID",
+                "EventRoles": "ROLE_ID",
+                "PartnerRoles": "ROLE_ID"
+            },
+            "Color": {
+                "Red": "ROLE_ID",
+                "Pink": "ROLE_ID",
+                "Orange": "ROLE_ID",
+                "Yellow": "ROLE_ID",
+                "Magenta": "ROLE_ID",
+                "Purple": "ROLE_ID",
+                "Lime": "ROLE_ID",
+                "Green": "ROLE_ID",
+                "Cyan": "ROLE_ID",
+                "Blue": "ROLE_ID",
+                "Brown": "ROLE_ID",
+                "White": "ROLE_ID",
+                "Silver": "ROLE_ID",
+                "Gray": "ROLE_ID",
+                "Black": "ROLE_ID"
+            }
+        }
+    },
+
+    "CONNECTIONS": {
+        "DISCORD_TERMS_OF_SERVICE": "https://discord.com/terms",
+        "COMMUNITY_GUIDELINES": "https://discord.com/guidelines",
+        "DISCORD_SUPPORT": "https://discord.gg/VzGNhtmmfB",
+        "WEBSITE": "https://galacyber.vercel.app/",
+        "YOUTUBE": "https://youtube.com/channel/UCgCCwoPs1l895X3ssa1DP0Q"
+    }
+}

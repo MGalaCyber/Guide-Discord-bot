@@ -1,0 +1,12 @@
+{
+    "Colors": {
+        "MainColor": "#11FF28",
+        "SuccessColor": "#00FF00",
+        "PreviewColor": "#2F3136",
+        "WrongColor": "#FF0000"
+    },
+
+    "Footers": {
+      "FooterText": "Guide Not | powered by galacyber.xyz"
+    }
+  }

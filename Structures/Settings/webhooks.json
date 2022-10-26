@@ -1,0 +1,18 @@
+{
+    "SystemLogs": {
+        "Actions": {
+            "errorLogs": {
+                "ID": "WEBHOOK_ID",
+                "TOKEN": "WEBHOOK_TOKEN"
+            }
+        },
+        "Intro": {
+            "ID": "WEBHOOK_ID",
+            "TOKEN": "WEBHOOK_TOKEN"
+        },
+        "Feedback": {
+            "ID": "WEBHOOK_ID",
+            "TOKEN": "WEBHOOK_TOKEN"
+        }
+    }
+}

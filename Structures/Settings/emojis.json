@@ -1,0 +1,49 @@
+{    
+    "Buttons": {
+        "Rules": "📕",
+        "Information": "📑",
+        "Roles": "🔮",
+        "Introduction": "📝",
+        "Feedback": "📫",
+        "Support": "💬",
+        "Website": "🌐",
+        "Link": "🔗",
+
+        "Accepted": "✅",
+
+        "Pronouns": {
+            "Male": "🚹",
+            "Female": "🚺"
+        },
+        "Notifications": {
+            "Announcement": "📢",
+            "Upload": "🎥",
+            "Polls": "📊",
+            "Event": "🎉",
+            "Partner": "🤝"
+        }
+    },
+    "Selects": {
+        "Information": {
+            "SocialMedia": "👥",
+            "Infractions": "⚠"
+        },
+        "Color": {
+            "Red": "🍎",
+            "Pink": "🎀",
+            "Orange": "🍊",
+            "Yellow": "💛",
+            "Magenta": "🪀",
+            "Purple": "💜",
+            "Lime": "📗",
+            "Green": "🧶",
+            "Cyan": "🥶",
+            "Blue": "🔷",
+            "Brown": "🟫",
+            "White": "⚪",
+            "Silver": "🥈",
+            "Gray": "🎳",
+            "Black": "🎩"
+        }
+    }
+}
