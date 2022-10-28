@@ -49,7 +49,7 @@ TOKEN="discord-bot-token"
 <details>
 <summary>Preview for the guide</summary>
 
-<a href="https://github.com/MGalaCyber/Discord.js-v13-Handler-Template">
+<a href="https://github.com/MGalaCyber/Guide-Discord-bot">
 <img src="https://media.discordapp.net/attachments/921614775421640714/1035588464973992006/Preview.gif" width="100%"></img>
 </a>
 
