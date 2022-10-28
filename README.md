@@ -50,6 +50,8 @@ TOKEN="discord-bot-token"
 <img src="https://media.discordapp.net/attachments/921614775421640714/1035588464973992006/Preview.gif" width="100%"></img>
 </a>
 
+> If you can't see the preview, please click **[Here](https://media.discordapp.net/attachments/921614775421640714/1035588464973992006/Preview.gif)** for see the preview.
+
 ---------
 # 💖 Support
 - [Saweria](https://saweria.co/Galaxy1274)
