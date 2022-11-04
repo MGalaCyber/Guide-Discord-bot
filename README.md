@@ -46,7 +46,7 @@ TOKEN="discord-bot-token"
 ---------
 ## Below Preview for the Guide System
 
-> NOTE: Before clicking play video, please mute the video, because this preview contains a song, I forgot to turn it off while recording😅
+> NOTE: Before you play the video, please mute the video first, because this preview contains a song, I forgot to turn it off while recording😅
 
 [Preview.mp4](https://user-images.githubusercontent.com/87995243/199989867-08ab6bef-4026-4e65-a7d5-ee2ba3b1c0e9.mp4)
 
