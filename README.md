@@ -46,6 +46,8 @@ TOKEN="discord-bot-token"
 ---------
 ## Below Preview for the Guide System
 
+> NOTE: Before clicking play video, please mute the video, because this preview contains a song, I forgot to turn it off while recording😅
+
 [Preview.mp4](https://user-images.githubusercontent.com/87995243/199989867-08ab6bef-4026-4e65-a7d5-ee2ba3b1c0e9.mp4)
 
 > If you can't see the preview, please click **[Here](https://media.discordapp.net/attachments/921614775421640714/1035588464973992006/Preview.gif)** for see the preview.
