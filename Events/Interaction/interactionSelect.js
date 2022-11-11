@@ -20,6 +20,8 @@ module.exports = {
      */
 
     async execute(interaction, client) {
+        const { member, user, guild } = interaction;
+
         if (interaction.isSelectMenu()) {
             //====================< Information System >===================\\
             if (interaction.customId === "select-information") {

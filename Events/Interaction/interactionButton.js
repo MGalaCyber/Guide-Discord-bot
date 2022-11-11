@@ -20,6 +20,8 @@ module.exports = {
      */
 
     async execute(interaction, client) {
+        const { member, user, guild } = interaction;
+
         if (interaction.isButton()) {
             //====================< Main Preview System >===================\\
             if (interaction.customId === "btn-rules") {
