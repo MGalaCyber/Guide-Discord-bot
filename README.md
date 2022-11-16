@@ -17,6 +17,12 @@
   
 </div>
 
+<div align="center">
+
+[![DeepSource](https://deepsource.io/gh/MGalaCyber/Guide-Discord-bot.svg/?label=active+issues&show_trend=true&token=vmwTEHQFGMlG6rjbmPBk-COL)](https://deepsource.io/gh/MGalaCyber/Guide-Discord-bot/?ref=repository-badge)
+
+</div>
+
 ---------
 <p align="center">
   <a href="https://discord.gg/VzGNhtmmfB" target="_blank">
