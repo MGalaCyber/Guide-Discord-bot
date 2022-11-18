@@ -70,5 +70,21 @@ If consider using this Template, make sure to credit me!
 ### [MGalaCyber](https://github.com/MGalaCyber) | [Website](https://galacyber.vercel.app) | [Discord](https://discord.gg/VzGNhtmmfB)
 
 ---------
+# 📕 Please Note
+<details>
+<summary>⚠ Important</summary>
+<br>
+
+- Why are some of the source codes encrypted?
+> Because, when someone uses the source code that I made, they never give credit to the creator, sometimes they even overwrite the credits that I have posted and use public and it's as if they made the source code of the project. That's why I encrypt some scripts in all the code projects I publish on GitHub.
+
+> if you want unencrypted source code, you can buy it directly from me, or you can boost my discord server to get unencrypted source code, server link [Click Here](https://discord.gg/VzGNhtmmfB)
+
+- I can't change my bot activity or how can I change my bot activity?
+> Ohh, you can change it in the `ready.js` section in the `Events` folder, but it's in the encrypted script category, so if you want to change it. As said above, you have to pay or boost my discord server
+  
+</details>
+
+---------
 # 📜 Licence
 > ![GitHub](https://img.shields.io/github/license/MGalaCyber/Discord.js-v14-Handler-Template?style=for-the-badge)
