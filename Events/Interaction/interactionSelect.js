@@ -1,5 +1,5 @@
 //=====================================| Import the Module |=====================================\\
-const { InteractionType, ChatInputCommandInteraction, Client, EmbedBuilder, ButtonBuilder, ActionRowBuilder, ButtonStyle, SelectMenuBuilder, ModalBuilder, TextInputBuilder, TextInputStyle } = require("discord.js");
+const { ChatInputCommandInteraction, Client, EmbedBuilder } = require("discord.js");
 
 //====================< Settings Module >===================\\
 const Config = require("../../Structures/Settings/config.json");
@@ -22,7 +22,7 @@ module.exports = {
     async execute(interaction, client) {
         const { member, user, guild } = interaction;
 
-        if (interaction.isSelectMenu()) {
+        if (interaction.isStringSelectMenu()) {
             //====================< Information System >===================\\
             if (interaction.customId === "select-information") {
                 const value = interaction.values[0];

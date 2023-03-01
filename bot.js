@@ -26,6 +26,7 @@ require("dotenv").config();
 
 //====================< Function only >===================\\
 const { loadEvents } = require("./Structures/Handlers/Loaders/loadEvents.js");
+const { server } = require("./Structures/Handlers/server.js");
 
 //====================< Client >===================\\
 const client = new Client({
@@ -81,6 +82,7 @@ handlerz.forEach(handler => {
 //====================< Login >===================\\
 client.login(process.env.TOKEN).then(() => {
     loadEvents(client, color);
+    server(client, color);
 }).catch(err => {
     console.log(`${color.bold.red(`[INDEX ERROR]`)} ` + `${err}`.bgRed);
 });

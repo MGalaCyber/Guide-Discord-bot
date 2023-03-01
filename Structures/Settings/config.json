@@ -3,6 +3,8 @@
 
     "SETTINGS": {
         "Prefix": "g!",
+        "Enable_Express": true,
+        "Port": 8080,
         "Roles": {
             "AcceptRoles": "ROLE_ID",
 
