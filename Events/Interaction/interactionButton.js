@@ -40,7 +40,7 @@ module.exports = {
                                 { name: "`Rule 5:` ___Self Advertise___", value: "Discord invite links are blacklisted in this server, if you still try to advertise your social media will give you a warn." },
                                 { name: "`Rule 6:` ___Links___", value: "Sending phishing links, NSFW website, or try to hack others using fake links will lead you a ban." },
                                 { name: "`Rule 7:` ___Spam___", value: "Flooding the chat above 4 lines or by using certain letters, or sending the same message again & again will lead you a warn." },
-                                { name: "`Rule 8:` ___Mention/Ping___", value: "Please do not ping anyone for unnecessary questions. Especially Nexus, if you ping Nexus you'll be warned." },
+                                { name: "`Rule 8:` ___Mention/Ping___", value: "Please do not ping anyone for unnecessary questions. Especially GalaXd, if you ping GalaXd you'll be warned." },
                             )
                     ],
                     components: [
